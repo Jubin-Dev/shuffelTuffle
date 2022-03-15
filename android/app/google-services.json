@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "268373554625",
+    "project_id": "shuffler-f1e36",
+    "storage_bucket": "shuffler-f1e36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268373554625:android:8eac72f1c08b725531ab40",
+        "android_client_info": {
+          "package_name": "com.example.shuffle_tuffle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268373554625-63ide8av4quggagf6mvb12bdv9cbmv5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg7WT607VQfhHJqBbrk47a0XzlNNgghsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268373554625-63ide8av4quggagf6mvb12bdv9cbmv5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
